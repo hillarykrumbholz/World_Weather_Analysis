@@ -32,5 +32,4 @@ A map displaying the routes between the five cities they are interested in visit
 ![WeatherPy_travel_map](https://github.com/hillarykrumbholz/World_Weather_Analysis/blob/master/images/WeatherPy_travel_map.png)
 
 A map displaying the pop-up markers for some of the cites in the vacation itinerary:
-![WeatherPy_travel_map_markers]
-(https://github.com/hillarykrumbholz/World_Weather_Analysis/blob/master/images/WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers](https://github.com/hillarykrumbholz/World_Weather_Analysis/blob/master/images/WeatherPy_travel_map_markers.png)
