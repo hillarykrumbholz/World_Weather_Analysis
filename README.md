@@ -1,9 +1,14 @@
-# World_Weather_Analysis
+# World Weather Analysis
 
-At the most fundamental level, Jack needs help answering a question: How might we provide real-time suggestions for our client’s ideal hotels? Your first task was to define what you meant by “ideal.” So, over the course of the conversation, you narrowed that to hotels that were (1) within a given range of latitude and longitude and that (2) provided the right kind of weather for the client.
+### Project Overview
+Analyze, create visuals, and statistically graph the weather data for a potential travel company. Their app PlanMyTrip will use the data to recommend ideal hotels based on clients’ weather preferences. 
 
-Here’s an outline of your project plan:
+### Resources
+- Data source: API from OpenWeatherMap, API from GoogleMaps
+- Software: Python 3.6.9, Jupyter Notebook, Pandas Library, MatPLotLib, SciPy Libraries
 
-Task: Collect and analyze weather data across cities worldwide.
-Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients’ weather preferences.
-Method: Create a Pandas DataFrame with 500 or more of the world’s unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
+### Objectives
+- Provide real-time suggestions for our client’s ideal hotels
+- Create a Pandas DataFrame with 500 or more of the world’s unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
+
+
