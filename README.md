@@ -22,5 +22,5 @@ How many cities have recorded rainfall or snow at the time the API was pulled?
 The client chose a location with a minimum temperature of 65 F and maximum temperature of 90 F, and where it has not been raining or snowing in the last 3 hours. 
 
 A map marking the location that meet the clients preferred criteria:
-![WeatherPy_vacation_map](
+![WeatherPy_vacation_map](https://github.com/hillarykrumbholz/World_Weather_Analysis/blob/master/images/WeatherPy_vacation_map.png)
 
