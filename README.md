@@ -13,4 +13,10 @@ Analyze, create visuals, and statistically graph the weather data for a potentia
 
 ## Challenge
 
+### Part 1: Get Weather Description and Amount of Precipitation for Each City
+
+How many cities have recorded rainfall or snow?
+- 64 cites have experienced rainfall in the last 3 hours.
+- 30 cities have experienced snowfall in the last 3 hours.
+
 
