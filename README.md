@@ -24,3 +24,13 @@ The client chose a location with a minimum temperature of 65 F and maximum tempe
 A map marking the location that meet the clients preferred criteria:
 ![WeatherPy_vacation_map](https://github.com/hillarykrumbholz/World_Weather_Analysis/blob/master/images/WeatherPy_vacation_map.png)
 
+### Part 3: Create a Travel Itinerary with a Corresponding Map
+The client decided to travel somewhere in South America, between Guatemala, Honduras, Belize, and El Salvador.
+A map (travel itinerary) is created that shows the route between five cities from the customer’s possible travel destinations in South America. Additionally, a map is created with pop-up markers for the five cities
+
+A map displaying the routes between the five cities they are interested in visiting:
+![WeatherPy_travel_map](https://github.com/hillarykrumbholz/World_Weather_Analysis/blob/master/images/WeatherPy_travel_map.png)
+
+A map displaying the pop-up markers for some of the cites in the vacation itinerary:
+![WeatherPy_travel_map_markers
+(https://github.com/hillarykrumbholz/World_Weather_Analysis/blob/master/images/WeatherPy_travel_map_markers.png)
