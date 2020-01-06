@@ -14,9 +14,13 @@ Analyze, create visuals, and statistically graph the weather data for a potentia
 ## Challenge
 
 ### Part 1: Get Weather Description and Amount of Precipitation for Each City
-
-How many cities have recorded rainfall or snow?
+How many cities have recorded rainfall or snow at the time the API was pulled?
 - 64 cites have experienced rainfall in the last 3 hours.
 - 30 cities have experienced snowfall in the last 3 hours.
 
+### Part 2: Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
+The client chose a location with a minimum temperature of 65 F and maximum temperature of 90 F, and where it has not been raining or snowing in the last 3 hours. 
+
+A map marking the location that meet the clients preferred criteria:
+![WeatherPy_vacation_map](
 
